@@ -11,13 +11,18 @@
 ● Detection of malicious URLs and classifying them as malicious and benign using various
 machine learning classifiers. Several feature extraction methods such as lexical features
 and host-based features are extracted better improve the performance of the classifiers.
+
 Primary objective:
+
 ● To build a binary classification model for the detection and classification of malicious and
 benign URLs by improving the accuracy and processing time.
+
 Secondary objectives:
-1. Understanding the characteristics of spam and ham URLs.
-2. To build a Machine Learning model to classify spam and ham URLs.
-3. To select the best-suited feature extraction techniques and classification algorithms for
+● Understanding the characteristics of spam and ham URLs.
+
+● To build a Machine Learning model to classify spam and ham URLs.
+
+● To select the best-suited feature extraction techniques and classification algorithms for
 detection and classifying the malicious URLs and devise an improved method.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/URL-Classification)
