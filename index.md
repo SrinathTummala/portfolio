@@ -32,7 +32,7 @@ detection and classifying the malicious URLs and devise an improved method.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/EDA)
 
-<center><img src="assets/img/fraud_detection.jpg"/></center>
+<center><img src="assets/img/loan default.JPG"/></center>
 
 
 
