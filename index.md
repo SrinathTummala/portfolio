@@ -17,7 +17,7 @@ Primary objective:
 ● To build a binary classification model for the detection and classification of malicious and
 benign URLs by improving the accuracy and processing time.
 
-Secondary objectives: 
+Secondary objective: 
 
 ● Understanding the characteristics of spam and ham URLs.
 
