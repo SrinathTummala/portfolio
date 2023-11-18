@@ -2,19 +2,26 @@ on:
   push:
   pull_request:
     types: [opened, synchronize]
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: script/cibuild
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
         with:
           node-version: '16'
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build and Test
+        run: |
+          script/bootstrap
+          script/cibuild
