@@ -1,20 +1,22 @@
-title: <p align="center"> Srinath Tummala </p>
-logo: /assets/img/logo3.png
+title: "<p align='center'> Srinath Tummala </p>"
+logo: "/assets/img/logo3.png"
 
 description: | 
   <p align="center">
-  <a href="pdf/Resume_Srinath.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/srinath-tummala/">LinkedIn</a> |
-  <a href="https://github.com/SrinathTummala">GitHub</a>
+    <a href="pdf/Resume_Srinath.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/srinath-tummala/">LinkedIn</a> |
+    <a href="https://github.com/SrinathTummala">GitHub</a>
   </p>
  
   <br>
-👋 Hey there! 👨‍💻 This is Srinath Tummala, a junior data scientist with over a year of hands-on experience in turning data into actionable insights. 📊💡
+  👋 Hey there! 👨‍💻 This is Srinath Tummala, a junior data scientist with over a year of hands-on experience in turning data into actionable insights. 📊💡
 
-🌱 My journey in the world of data science has been an exciting learning curve, where I have honed my skills in data analysis, machine learning, and problem-solving. 🚀 Throughout my projects, I have tackled real-world challenges, from data wrangling to model deployment. I am passionate about leveraging data to make informed decisions and am always up for diving into new and complex datasets.
+  🌱 My journey in the world of data science has been an exciting learning curve, where I have honed my skills in data analysis, machine learning, and problem-solving. 🚀 Throughout my projects, I have tackled real-world challenges, from data wrangling to model deployment. I am passionate about leveraging data to make informed decisions and am always up for diving into new and complex datasets.
 
-💼 Currently seeking opportunities to contribute to impactful projects and collaborate with like-minded individuals in the data science community. Check out my repositories to see my work, and connect to discuss all things data! 🌐🔗
+  💼 Currently seeking opportunities to contribute to impactful projects and collaborate with like-minded individuals in the data science community. Check out my repositories to see my work, and connect to discuss all things data! 🌐🔗
   </br>
 
-
 theme: jekyll-theme-minimal
+
+
+
