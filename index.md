@@ -1,6 +1,13 @@
-# Data Science Portfolio
----
 
+👋 Hey there! 👨‍💻 This is Srinath Tummala, a junior data scientist with over a year of hands-on experience in turning data into actionable insights. 📊💡 
+
+ 🌱 My journey in the world of data science has been an exciting learning curve, where I have honed my skills in data analysis, machine learning, and problem-solving. 🚀 Throughout my projects, I have tackled real-world challenges, from data wrangling to model deployment. I am passionate about leveraging data to make informed decisions and am always up for diving into new and complex datasets.
+
+ 💼 Currently seeking opportunities to contribute to impactful projects and collaborate with like-minded individuals in the data science community. Check out my repositories to see my work, and  connect to discuss all things data! 🌐🔗 
+>Happy coding! 📈💻 #DataScience #JuniorDataScientist #MachineLearning
+---
+# Data Science Portfolio
+----
 <center><img src="assets/img/cover.png"/></center>
 
 --------
