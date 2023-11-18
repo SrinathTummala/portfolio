@@ -1,9 +1,1 @@
----
-layout: default
----
-
-## Welcome to another page
-
-_yay_
-
-[back](./)
+Your content here!
