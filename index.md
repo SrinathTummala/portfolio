@@ -1,8 +1,9 @@
-# Data Science Portfolio
----
 
 
 <center><img src="assets/img/cover.png"/></center>
+
+# Data Science Portfolio
+---
 
 
 ## Advanced Linear Regression                        [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/Advanced-Linear-regression)
