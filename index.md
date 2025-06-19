@@ -1,9 +1,30 @@
 
 # Data Science Portfolio
-----
-<center><img src="assets/img/cover.png"/></center>
+# RAG-Powered Resume QA Chatbot             [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/rag-resume-qa-chatbot)
+> Built a question-answering chatbot using **Retrieval-Augmented Generation (RAG)** that allows users to query a document in natural language — tested using my own resume.
+> This project showcases practical skills in integrating **OpenAI GPT-4** with **FAISS-based semantic search** to build scalable and contextual document assistants.
 
---------
+### 🔑 Key Highlights
+- Used `text-embedding-ada-002` to generate embeddings from chunked document sections.
+- Applied **LangChain** for managing document chunking, vector storage, and prompt templates.
+- Implemented a clean, interactive frontend using **Streamlit**, backed by a **FastAPI** backend.
+- Optimized prompt design to improve relevance and reduce token consumption.
+
+### 💬 Example Queries
+- What skills does Srinath have?  
+- Which project involved working with OpenAI and RAG?  
+- What is the embedding model used in the project?  
+- Why should a company hire Srinath as a Generative AI Engineer or Data Scientist?
+
+### 🧰 Tech Stack
+`Python`, `OpenAI GPT-4`, `LangChain`, `FAISS`, `Streamlit`, `FastAPI`, `PyMuPDF`, `text-embedding-ada-002`
+
+<video width="700" height="400" controls>
+  <source src="assets/video/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+----
 
 
 ## Advanced Linear Regression                        [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/Advanced-Linear-regression)
