@@ -1,5 +1,5 @@
-# Data Science Portfolio
-# RAG-Powered Resume QA Chatbot             [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/rag-resume-qa-chatbot)
+# My Projects
+## RAG-Powered Resume QA Chatbot             [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/rag-resume-qa-chatbot)
 > Built a question-answering chatbot using **Retrieval-Augmented Generation (RAG)** that allows users to query a document in natural language — tested using my own resume.
 > This project showcases practical skills in integrating **OpenAI GPT-4** with **FAISS-based semantic search** to build scalable and contextual document assistants.
 
