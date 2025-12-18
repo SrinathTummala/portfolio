@@ -3,16 +3,28 @@ logo: "/assets/img/logo.png"
 
 description: | 
   <p align="center">
-    <a href="pdf/Srinath_tummala.pdf">Resume</a> |
+    <a href="pdf/Srinath_Tummala_AI_Engineer.pdf">Resume</a> |
     <a href="https://www.linkedin.com/in/srinath-tummala/">LinkedIn</a> |
     <a href="https://github.com/SrinathTummala">GitHub</a>
   </p>
- 
+
   <br>
-  👋 Hi, I'm <strong>Srinath Tummala</strong> — a data scientist with 3+ years of hands-on experience in machine learning, NLP, and Generative AI.  
-    I specialize in building intelligent systems that extract meaningful insights and solve real-world problems through data.  
-    My work blends deep technical knowledge with a user-first mindset, and I'm especially passionate about LLMs, RAG pipelines, and deploying AI tools that scale.  
-    Let's build smarter solutions together! 🚀📊🤖  
-  </br>
+  👋 Hi, I'm <strong>Srinath Tummala</strong> — an <strong>AI Engineer & Data Scientist</strong> with 4 years of experience specialising in production-ready <strong>Generative AI, LLMs, and RAG pipelines</strong>.
+  
+  I have a proven track record of delivering high-scale AI microservices for leading technology firms, including pivotal work for <strong>UAE-headquartered Onpassive</strong>. My expertise in performance engineering has resulted in an <strong>80% reduction in model training time</strong> and a <strong>60% reduction in response latency</strong>.
+  
+
+  <br>
+  <strong>Core Expertise:</strong>
+  <ul>
+    <li><strong>Production GenAI:</strong> Architecting enterprise RAG pipelines using LangChain, FAISS, and GPT-4.</li>
+    <li><strong>Performance Engineering:</strong> Optimising high-dimensional models using Stochastic Variational Inference (SVI).</li>
+    <li><strong>Scalable Deployment:</strong> Building robust FastAPI microservices containerised with Docker and deployed via AWS.</li>
+  </ul>
+
+  I blend deep technical rigour with a production-first mindset, from engineering multilingual NLP systems to deploying eKYC modules to international standards. 
+  
+  Let's build smarter, scalable solutions together! 🚀📊🤖
+  <br>
 
 theme: jekyll-theme-minimal
