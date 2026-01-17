@@ -1,4 +1,29 @@
 # My Projects
+## Autonomous AI Technical Researcher Agent [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/ai-technical-researcher-n8n)
+> Developed an autonomous **AI Research Agent** that monitors and aggregates the latest technical breakthroughs in Agentic AI, Generative AI, Data Science, and MLOps.
+> This project demonstrates the ability to build **Agentic Workflows** using **n8n** that go beyond simple automation by incorporating real-time web search, autonomous reasoning, and automated professional content distribution.
+
+### 🔑 Key Highlights
+- Orchestrated a multi-node **n8n workflow** triggered daily to fetch real-time industry updates.
+- Integrated an **AI Agent** powered by **GPT-4o-mini** with autonomous tool-calling capabilities.
+- Utilized the **Tavily Search API** for deep, LLM-optimized web searching to ensure factual accuracy of recent events.
+- Implemented **Simple Memory (Window Buffer)** to maintain context during the agent's reasoning process.
+- Automated a dual-output pipeline: a detailed **Technical Research Report** sent via Gmail and a ready-to-publish **LinkedIn Post Draft**.
+
+### 💬 Sample Output
+- **Agentic AI:** Researched NVIDIA's Nemotron 3 open reasoning models and enterprise applications at CES 2026.
+- **Generative AI:** Tracked the launch of Gemini 3 Flash and DeepMind's GenCast for weather forecasting.
+- **LinkedIn Content:** Generated high-engagement drafts explaining GPU-level optimizations and multi-cloud MLOps orchestration.
+
+### 🧰 Tech Stack
+`n8n`, `OpenAI GPT-4o-mini`, `Tavily AI`, `Gmail API`, `JSON`, `Agentic Workflows`, `Prompt Engineering`
+
+### 🖼️ n8n Workflow Architecture
+
+<center><img src="assets/img/workflow.png" alt="n8n Workflow Design" width="80%"/></center>
+
+---- 
+
 ## RAG-Powered Resume QA Chatbot             [![Redirect to Repo](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SrinathTummala/rag-resume-qa-chatbot)
 > Built a question-answering chatbot using **Retrieval-Augmented Generation (RAG)** that allows users to query a document in natural language — tested using my own resume.
 > This project showcases practical skills in integrating **OpenAI GPT-4** with **FAISS-based semantic search** to build scalable and contextual document assistants.
