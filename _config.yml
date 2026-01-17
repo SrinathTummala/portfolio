@@ -8,16 +8,18 @@ description: |
     <a href="https://github.com/SrinathTummala">GitHub</a>
   </p>
 
-  **AI Engineer & Data Scientist** (4 Yrs Exp)  
-  Specializing in production-ready **GenAI, LLMs, and RAG pipelines**.
-
-  **Core Expertise:**
-  * **GenAI & Agents:** RAG, n8n Agentic Workflows, LangChain, GPT-4, FAISS, Prompt Engineering.
-  * **ML / DL / NLP:** Transformers, Multilingual NLP, CNNs, PyTorch, TensorFlow, Scikit-learn.
-  * **Engineering:** Python, FastAPI, SQL, NoSQL (MongoDB), ETL, MLOps, Docker, AWS, Jenkins.
-
-  🚀 *Building smarter, scalable AI solutions.*
   <br>
-  <small>📍 Hyderabad, India</small>
+  👋 Hi, I'm <strong>Srinath Tummala</strong> — an AI Engineer & Data Scientist with 4 years of experience specialising in production-ready <strong>GenAI, LLMs, and RAG pipelines</strong>.
+  <br><br>
+  <strong>Core Expertise:</strong>
+  <ul>
+    <li><strong>GenAI & Agents:</strong> RAG, n8n Agentic AI, LangChain, FAISS, GPT-4.</li>
+    <li><strong>ML / DL / NLP:</strong> Transformers, Multilingual NLP, CNNs, PyTorch.</li>
+    <li><strong>Engineering:</strong> FastAPI, SQL, NoSQL, MLOps, Docker, AWS, Jenkins.</li>
+  </ul>
+
+  Let's build smarter, scalable AI solutions! 🚀📊🤖
+  <br>
+  <small>Hyderabad, India </small>
 
 theme: jekyll-theme-minimal
