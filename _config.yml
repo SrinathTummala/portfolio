@@ -1,26 +1,23 @@
 title: "<p align='center'> Srinath Tummala </p>"
 logo: "/assets/img/logo.png"
 
-description: | 
+description: |
   <p align="center">
     <a href="pdf/Srinath_Tummala_AI_Engineer.pdf">Resume</a> |
     <a href="https://www.linkedin.com/in/srinath-tummala/">LinkedIn</a> |
     <a href="https://github.com/SrinathTummala">GitHub</a>
   </p>
 
-  <br>
-  👋 Hi, I'm <strong>Srinath Tummala</strong> — an AI Engineer & Data Scientist with 4 years of experience specialising in production-ready <strong>Generative AI, LLMs, and RAG pipelines</strong>.
-  </br>
-  <br>
-  <strong>Core Expertise:</strong>
-  <ul>
-    <li><strong>GenAI:</strong> RAG pipelines using LangChain, FAISS, and GPT-4.</li>
-    <li><strong>Performance:</strong> High-dimensional modelling via SVI.</li>
-    <li><strong>Deployment:</strong> FastAPI microservices with Docker and AWS.</li>
-  </ul>
+  **AI Engineer & Data Scientist** (4 Yrs Exp)  
+  Specializing in production-ready **GenAI, LLMs, and RAG pipelines**.
 
-  Let's build smarter, scalable AI solutions! 🚀📊🤖
+  **Core Expertise:**
+  * **GenAI & Agents:** RAG, n8n Agentic Workflows, LangChain, GPT-4, FAISS, Prompt Engineering.
+  * **ML / DL / NLP:** Transformers, Multilingual NLP, CNNs, PyTorch, TensorFlow, Scikit-learn.
+  * **Engineering:** Python, FastAPI, SQL, NoSQL (MongoDB), ETL, MLOps, Docker, AWS, Jenkins.
+
+  🚀 *Building smarter, scalable AI solutions.*
   <br>
-  <small>Hyderabad, India </small>
+  <small>📍 Hyderabad, India</small>
 
 theme: jekyll-theme-minimal
